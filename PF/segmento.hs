@@ -1,0 +1,1 @@
+segmento m n xs = drop (m-1) (take n xs)

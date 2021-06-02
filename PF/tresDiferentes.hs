@@ -1,0 +1,1 @@
+tresDiferentes x y z = x /= y && x /= z && y /= z
